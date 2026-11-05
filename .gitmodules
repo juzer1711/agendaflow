@@ -1,0 +1,9 @@
+[submodule "agenda-flow-alexa"]
+	path = agenda-flow-alexa
+	url = https://github.com/juzer1711/agenda-flow-alexa.git
+[submodule "agendaflow-backend"]
+	path = agendaflow-backend
+	url = https://github.com/juzer1711/agendaflow-backend.git
+[submodule "agendaflow-frontend"]
+	path = agendaflow-frontend
+	url = https://github.com/juzer1711/agendaflow-frontend.git
